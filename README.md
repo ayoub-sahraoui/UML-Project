@@ -1,7 +1,5 @@
 # UML-Project (Fiverr)
 
-# Document de Spécifications Détaillées - Fiverr
-
 ## Introduction
 Fiverr est une place de marché en ligne qui met en relation des freelancers et des clients, offrant une plateforme pour l'échange d'une large gamme de services numériques. Ce document vise à fournir un aperçu complet des fonctionnalités clés de Fiverr, de ses fonctionnalités et de ses exigences techniques.
 
