@@ -91,8 +91,6 @@
 
    - Inclure tout diagramme, capture d'écran ou matériel de référence supplémentaire pertinent.
 
-Bien sûr, voici un résumé en français des principaux points du document de spécifications de Fiverr :
-
 Fiverr est une plateforme en ligne qui met en relation des freelances et des prestataires de services avec des particuliers et des entreprises cherchant une variété de services numériques. Ce document détaille les fonctionnalités clés de Fiverr, y compris la création de profils de vendeurs et d'acheteurs, la gestion des services (appelés Gigs), le processus d'achat, la communication entre les utilisateurs, le traitement des commandes, les paiements et les frais, la résolution des litiges, les avis et évaluations, ainsi que les services premium tels que Fiverr Pro et Fiverr Business.
 
 Le document met en lumière les rôles et les autorisations des utilisateurs, de la création de comptes à la gestion des profils. Il explique en détail la création et la gestion des Gigs par les vendeurs, ainsi que le processus d'achat de services du point de vue des acheteurs. La communication entre les utilisateurs est essentielle, tout comme le respect des délais et des révisions pendant le traitement des commandes. Les politiques de paiement et de frais de Fiverr sont également expliquées.
