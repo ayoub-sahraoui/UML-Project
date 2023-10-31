@@ -91,4 +91,12 @@
 
    - Inclure tout diagramme, capture d'écran ou matériel de référence supplémentaire pertinent.
 
-Ce document offre une compréhension complète de Fiverr et de son fonctionnement, adaptée aux étudiants et à ceux qui souhaitent explorer ou utiliser la plateforme.
+Bien sûr, voici un résumé en français des principaux points du document de spécifications de Fiverr :
+
+Fiverr est une plateforme en ligne qui met en relation des freelances et des prestataires de services avec des particuliers et des entreprises cherchant une variété de services numériques. Ce document détaille les fonctionnalités clés de Fiverr, y compris la création de profils de vendeurs et d'acheteurs, la gestion des services (appelés Gigs), le processus d'achat, la communication entre les utilisateurs, le traitement des commandes, les paiements et les frais, la résolution des litiges, les avis et évaluations, ainsi que les services premium tels que Fiverr Pro et Fiverr Business.
+
+Le document met en lumière les rôles et les autorisations des utilisateurs, de la création de comptes à la gestion des profils. Il explique en détail la création et la gestion des Gigs par les vendeurs, ainsi que le processus d'achat de services du point de vue des acheteurs. La communication entre les utilisateurs est essentielle, tout comme le respect des délais et des révisions pendant le traitement des commandes. Les politiques de paiement et de frais de Fiverr sont également expliquées.
+
+Le document traite de la résolution des litiges entre les utilisateurs, mettant l'accent sur le rôle du service client de Fiverr. Il souligne l'importance des avis et évaluations honnêtes et constructifs pour maintenir la qualité des services. La sécurité des données et la protection de la vie privée sont abordées, ainsi que les ressources de support et de contact avec le service client de Fiverr.
+
+En fin de compte, ce document fournit une compréhension complète de Fiverr, de ses opérations et de ses directives, adaptée aux étudiants et à ceux qui souhaitent explorer ou utiliser la plateforme pour leurs besoins de services numériques.
